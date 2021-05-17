@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270344000988",
+    "project_id": "movilessabado",
+    "storage_bucket": "movilessabado.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270344000988:android:1435fb100be796c8ee2b19",
+        "android_client_info": {
+          "package_name": "com.example.crudsabado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270344000988-kkjvu6qogredalmfcaagh21v37o076cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1kigMlojTQxLw9uhxlSf0T3M7nO7c5Js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270344000988-kkjvu6qogredalmfcaagh21v37o076cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
